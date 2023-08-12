@@ -1,0 +1,26 @@
+QMainWindow {
+    background-color: #7ac1c2;
+}
+
+QPushButton {
+    min-width: 50;
+    max-width: 200px;
+    min-height: 25;
+    max-height: 50;
+    border: 1px solid, black;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: solid;
+}
+
+QPushButton:hover {
+    background-color: #2ac9d1;
+}
+
+QLabel {
+    background-color: #4c797a;
+    min-width: 512px;
+    max-width: 850px;
+    min-height: 512px;
+    max-height: 850px;
+}
